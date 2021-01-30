@@ -1,1 +1,0 @@
-%SystemRoot%\system32\SoundRecorder.exe
